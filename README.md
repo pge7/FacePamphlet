@@ -1,2 +1,2 @@
 # FacePamphlet
-A primitive model for social network
+A primitive model for social network in Java
